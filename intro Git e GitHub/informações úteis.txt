@@ -1,0 +1,16 @@
+link download git: https://git-scm.com/downloads
+
+usa git bash;
+
+comandos no terminal git-bash:
+
+ls - Lista tudo que tem dentro da pasta;
+cd (+ nome) - entrar na pasta desejada;
+cd .. - retorna para pasta anterior;
+git clone (+ link do repositório) - clona para minha máquina um repositório do github;
+git status - mostra se houve alteração na pasta, nos arquivos da pasta ou na quantidade de arquivos da pasta;
+git add . - adiciona todos arquivos da pasta para serem preparados para envio ao github;
+git add -A - adiciona todos arquivos da pasta para serem preparados para envio ao github;
+git commit -m (+ comentário entre aspas) - cria um commit para os arquivos alterados;
+git push origin main - envia as alterações dos arquivos e pastas para o GitHub;
+git push origin master - envia as alterações dos arquivos e pastas para o GitHub;
